@@ -8,13 +8,6 @@
 	<name>ems_db-master Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
-
-	
-	
-	
-	
-	
-	
 		<dependency>
 		<groupId>org.apache.maven.plugins</groupId>
 		<artifactId>maven-compiler-plugin</artifactId>
