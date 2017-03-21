@@ -10,3 +10,7 @@ new line adde to test
 test
 
 story
+
+
+
+Lines are added
