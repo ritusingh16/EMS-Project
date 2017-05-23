@@ -21,7 +21,7 @@
 </dependency>
 		
 		
-<dependency>
+<!--<dependency>
     <groupId>info.cukes</groupId>
     <artifactId>cucumber-java</artifactId>
     <version>1.2.4</version>
@@ -38,7 +38,7 @@
             <artifactId>cucumber-java8</artifactId>
             <version>1.2.3</version>
             <scope>test</scope>
-        </dependency>
+        </dependency> -->
 		
 		<!-- REPORTING -->
         <!--<dependency>
@@ -48,7 +48,7 @@
           <!--  <scope>system</scope>
             <systemPath>${project.basedir}/lib/totallylazy-1.20.jar</systemPath> -->
       <!--  </dependency>-->
-        <dependency>
+     <!--   <dependency>
             <groupId>net.masterthought</groupId>
             <artifactId>cucumber-reporting</artifactId>
             <version>0.0.24</version>
@@ -57,13 +57,13 @@
 			<groupId>org.apache.maven</groupId>
 			<artifactId>maven-plugin-api</artifactId>
 			<version>3.1.1</version>
-		</dependency>
+		</dependency> -->
 
 
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>3.8.1</version>
+			<version>4.11</version>
 			<scope>test</scope>
 		</dependency>
 
