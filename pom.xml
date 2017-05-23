@@ -8,12 +8,7 @@
 	<name>ems_db-master Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
-	<!--	<dependency>
-		<groupId>org.apache.maven.plugins</groupId>
-		<artifactId>maven-compiler-plugin</artifactId>
-		<version>2.5.1</version>
-		</dependency> -->
-
+	
         <dependency>
 	<groupId>org.codehaus.sonar</groupId>
 	<artifactId>sonar-plugin-api</artifactId>
@@ -101,24 +96,6 @@
 	<build>
 		<finalName>ems_db-master</finalName>
 		<plugins>
-	
-
- <!--  <plugin> -->
-<!--    <groupId>org.apache.maven.plugins</groupId> -->
-<!--    <artifactId>maven-war-plugin</artifactId> -->
-<!--     <version>2.5</version> -->
-<!--    <configuration> -->
-<!--     <WebXml>src\main\webapp\WEB-INF\web.xml</WebXml> -->
-<!--     <webResources> -->
-<!--     <resource>                      -->
-<!--     <directory>src\main\webapp\jsp</directory> -->
-<!-- <includes> -->
-<!--    <include>**/*.jsp</include> -->
-<!--    </includes> -->
-<!--    </resource> -->
-<!--    </webResources> -->
-<!--    </configuration> -->
-<!--  </plugin> -->
 
 <!-- <plugin> -->
 <!--         <groupId>org.codehaus.mojo</groupId> -->
