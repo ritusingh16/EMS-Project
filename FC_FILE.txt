@@ -17,3 +17,5 @@ NEw line added for configuration with mongoDB
 code change and file added by ritu for hygieia
 
 Jenkins build fail due to plugin version (plugin version is changed)
+
+cobertura plugin removed
