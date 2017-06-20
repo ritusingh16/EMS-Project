@@ -1,8 +1,5 @@
 new file added for fisheye crucible from github directly
 changes made in file from local
-dummy dashboard created
-new line added
-
 
 latest change for hygieia
 
@@ -19,15 +16,11 @@ Jenkins build fail due to plugin version (plugin version is changed)
 cobertura plugin removed
 rundeck configuration process with hygieia
 
-
 changed in code which result less minor or major issues in sonarqube
-
 
 change in code bcoz the jenkins job is failing
 
-
 changed in file
-
 
 changes pulled in jenkins
 
